@@ -1,7 +1,7 @@
 
 ## LLM Threat Analysis Validator
 
-This Python script is designed to validate and analyze potential threats to Large Language Models (LLMs) by processing input data, fetching related web content, and using the Claude API to validate and suggest corrections for various threat categories and impacts.
+This Python script is designed to validate and analyze the theat scenairo spreadsheet document with entries provided by CSA's AI Control Working group's experts, by processing input data, fetching related web content, and using the Claude API to validate and suggest corrections for various threat categories, life cycle, assets, and impacts.
 
 ### Features
 
