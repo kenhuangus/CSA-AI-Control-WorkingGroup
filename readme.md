@@ -94,5 +94,3 @@ Ensure you have the necessary permissions and comply with the terms of service f
 
 This script is designed for threat analysis and validation in the context of LLMs. Always use it responsibly and in compliance with relevant laws and regulations.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/1990516/decf57aa-1f80-4a78-8970-dcecfaeaf3b3/paste.txt
