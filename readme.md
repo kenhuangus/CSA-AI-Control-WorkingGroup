@@ -30,8 +30,11 @@ This Python script is designed to validate and analyze the theat scenairo spread
 
 3. Prepare an input Excel file named `input.xlsx` with the required columns. Sample input.xlsx is in the same working directory
 
-4. run python main.py
-   
+4. run
+   ```
+   python main.py
+   ```
+      
 ### Key Components
 
 1. **Data Structures**: The script defines several dictionaries to categorize assets, life cycle stages, threat categories, and impact categories.
