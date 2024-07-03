@@ -241,6 +241,6 @@ for idx, row in df.iterrows():
     write_to_result_txt(f"Processed row {idx+1}\n\n")
     
     # Implement rate limiting (30 calls per minute)
-    time.sleep(61)
+    time.sleep(2)
 
 print(f"Processing complete. Output saved to {output_file_name}")
